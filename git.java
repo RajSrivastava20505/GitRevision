@@ -6,6 +6,8 @@ public class git {
         System.out.println(a+b);
 
         System.out.println("new file added.");
+
+        System.out.println("undoing changes after push to github.");
         
     }
 }
