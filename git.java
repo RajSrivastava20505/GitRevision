@@ -6,5 +6,10 @@ public class git {
         System.out.println(a+b);
 
         System.out.println("new file added.");
+        int m=10;
+
+        int n=5;
+
+        System.out.println(m+n);
     }
 }
