@@ -7,5 +7,6 @@ public class git {
 
         System.out.println("new file added.");
         
+        System.out.println("undo after push");
     }
 }
